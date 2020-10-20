@@ -13,4 +13,4 @@
 
 # Confidence
 
-Bar Chart link: https://nbviewer.jupyter.org/github/linyu2295/NextGen-Transaction-Data-Analysis/blob/master/Confidence_Bar_chart_plotly.ipynb#
+Plotly Bar Chart link: https://nbviewer.jupyter.org/github/linyu2295/NextGen-Transaction-Data-Analysis/blob/master/Confidence_Bar_chart_plotly.ipynb#
