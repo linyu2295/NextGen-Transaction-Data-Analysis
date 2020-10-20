@@ -10,3 +10,7 @@
    - E.g the label of product ‘Medium Hand Tossed Pizza’ is Pizza
    
 3. Explore two subsets and construct similarity graph among the transaction labels to better understand the user preferences and the relationship between different transactions.
+
+# Confidence
+
+link: https://nbviewer.jupyter.org/github/linyu2295/NextGen-Transaction-Data-Analysis/blob/master/Confidence_Bar_chart_plotly.ipynb#
