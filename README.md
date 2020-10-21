@@ -11,6 +11,8 @@
    
 3. Explore two subsets and construct similarity graph among the transaction labels to better understand the user preferences and the relationship between different transactions.
 
+  - The similarity graph visualizations are in the Results folder. 
+
 # Confidence
 
 1. The confidence of X -> Y is defined by the conditional probability p(Y|X):
