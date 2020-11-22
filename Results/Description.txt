@@ -1,2 +1,0 @@
-Jaccard similarity matrix
-Similarity graph visualization
